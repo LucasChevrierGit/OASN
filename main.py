@@ -16,7 +16,6 @@ initial_network = {
 
 experiments_params = {
     "dynamic_network_2": {"advised_choice": True, "change_neighbors": True, "self_feedback": True},
-    "solo_self_feedback_2": {"advised_choice": False, "change_neighbors": False, "self_feedback": True},
     "static_network_2": {"advised_choice": True, "change_neighbors": False, "self_feedback": True},
 }
 
